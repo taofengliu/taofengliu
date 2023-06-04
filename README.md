@@ -7,3 +7,5 @@ Interned at MatrixOrigin(矩阵起源) and Transwarp(星环科技), doing databa
 If you are interested in my work, feel free to contact me.
 
 WeChat: taofengliu2002.
+
+Email: taofengliu@outlook.com
